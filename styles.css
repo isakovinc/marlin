@@ -1,0 +1,380 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+header{
+  display: inline-block;
+  background-color: white;
+  width: 100%;
+}
+
+a{
+  padding: 0 10px;
+  text-decoration: none;
+  color: #86aba1;
+}
+a:hover{
+  color:white;
+  background-color: black;
+}
+
+h6{
+  text-align: center;
+  color: #01c5c4;
+
+}
+h3{
+  text-align: center;
+  padding-top: 15px;
+}
+
+h4{
+  display: inline-block;
+}
+
+
+.Homeispeace{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.left-header{
+  display: inline-block;
+  margin-left: 150px;
+}
+.right-header{
+  display:inline-block;
+  margin-left: 400px;
+}
+
+.marlin{
+  display: inline-block;
+  margin-right: 70px;
+  font-family: 'Pacifico', cursive;
+}
+
+.main-content{
+  background-color: white;
+  height: 970px;
+  width: 800px;
+  position: absolute;
+  left:160px;
+  margin-top: 70px;
+ }
+
+
+ .main1-content{
+   background-color: white;
+   height: 970px;
+   width: 800px;
+   position: absolute;
+   left:160px;
+   margin-top: 1100px;
+  }
+
+  .main2-content{
+    background-color: white;
+    height: 970px;
+    width: 800px;
+    position: absolute;
+    left:160px;
+    margin-top: 2130px;
+   }
+   .main3-content{
+     background-color: white;
+     height: 970px;
+     width: 800px;
+     position: absolute;
+     left:160px;
+     margin-top: 3150px;
+    }
+    .main4-content{
+      background-color: white;
+      height: 970px;
+      width: 800px;
+      position: absolute;
+      left:160px;
+      margin-top: 4160px;
+     }
+
+
+     .page-content{
+
+      border: 1px solid #eee;
+ 			text-decoration: none;
+      position: absolute;
+      left:160px;
+      margin-top: 5200px;
+      }
+
+      .page{
+        background-color: #fff;
+        padding: 7px 12px;
+      }
+      .page:hover{
+        cursor: pointer;
+        background-color: #00d4f5;
+        color: #fff;
+      }
+
+.INSTAGRAM{
+  background-color: white;
+  height: 350px;
+  width: 100%;
+  position: absolute;
+  margin-top: 5300px;
+
+}
+
+.black_footer{
+  background-color: #433d3c;
+  height: 350px;
+  width: 100%;
+  position: absolute;
+  margin-top: 5560px;
+}
+
+.marlin_bottom{
+  height: 350px;
+  width: 400px;
+  position: absolute;
+  left:200px;
+  bottom: 25px;
+}
+.marlin-b{
+  font-family: 'Pacifico', cursive;
+  font-size: 70px;
+  color: white;
+
+}
+
+.white{
+  color: white;
+}
+
+.testimonials{
+
+  height: 300px;
+  width: 350px;
+  position: absolute;
+  left: 650px;
+  margin-top: 20px;
+}
+
+.testimonials-container {
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: 'Montserrat';
+    margin-right: 150px;
+}
+
+.dots{
+  width: 50px;
+  border-bottom: dotted;
+  position: absolute;
+  right:30px;
+  bottom: 100px;
+  border-width: 10px;
+  color: white;
+
+}
+
+.dots:hover{
+  cursor: pointer;
+  color: #00d4f5;
+}
+
+.centered-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+
+}
+
+.user-details {
+    margin-left: 10px;
+}
+
+.username {
+    display: inline-block;
+    margin: 0;
+}
+
+
+
+.custom_category{
+  height: 300px;
+  width: 350px;
+  position: absolute;
+  right:150px;
+  color: white;
+}
+
+.custom{
+  color: white;
+  text-align: justify;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  margin-top: 60px;
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  margin-top: 5900px;
+}
+
+
+
+.img{
+  float: left;
+}
+ .button_css
+ {
+    background-color:#fff;
+    color:#00d4f5;
+    width: 150px;
+    height: 40px;
+    font-size: 12px;
+    margin-left: 300px;
+    border:1px solid #eee;
+    margin-bottom: 25px;
+
+ }
+ .button_css:hover{
+   cursor: pointer;
+   color: white;
+   background-color: black;
+ }
+ .border_line{
+   width: 90%;
+   margin: 0 auto;
+   border-bottom: 1px solid #eee;
+ }
+
+.Date{
+  position: absolute;
+}
+
+ .icons{
+   position: absolute;
+   right:35px;
+   margin-top: 30px;
+ }
+
+
+.right-content{
+  background-color: white;
+  height: 200px;
+  width: 350px;
+  position: absolute;
+  right:180px;
+  margin-top:70px;
+}
+
+
+.right1-content{
+
+  background-color: white;
+  height: 1000px;
+  width: 350px;
+  position: absolute;
+  right:180px;
+  margin-top: 310px;
+}
+
+.right2-content{
+  background-color: white;
+  height: 300px;
+  width: 350px;
+  position: absolute;
+  right:180px;
+  margin-top: 1350px;
+}
+
+.right3-content{
+  background-color: white;
+  height: 450px;
+  width: 350px;
+  position: absolute;
+  right:180px;
+  margin-top: 1690px;
+}
+
+.recent_posts{
+  margin-left: 20px;
+  margin-top: 9px;
+}
+
+.bottomnav{
+  float: right;
+  margin-right: 70px;
+  font-size: 12px;
+
+}
+
+.right4-content{
+  background-color: white;
+  height: 350px;
+  width: 350px;
+  position: absolute;
+  right:180px;
+  margin-top: 2180px;
+}
+
+.right_text{
+  position: absolute;
+  left: 25px;
+
+}
+.left_text{
+  position: absolute;
+  right: 15px;
+}
+.email{
+  background-color: #f6f5f5;
+  border:0.5px solid #d6d2c4;
+  padding: 10px;
+  margin-left: 20px;
+}
+button{
+  width: 310px;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  padding: 10px 0;
+  color: #fff;
+  background-color: #111;
+  font-family: sans-serif;
+  border:0.5px solid #eee;
+}
+
+button:hover{
+  cursor: pointer;
+  color:#00d4f5;
+  background-color: white;
+}
+.image-center{
+  margin-left: 25px;
+}
+
+.image-center1{
+  margin-left: 25px;
+}
+.main_text{
+  margin: 40px;
+}
+.Under_text{
+ margin-left: 30px;
+}
